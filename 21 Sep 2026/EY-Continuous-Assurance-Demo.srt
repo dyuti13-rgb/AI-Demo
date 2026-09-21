@@ -1,0 +1,228 @@
+1
+00:00:01,200 --> 00:00:06,084
+EY Internal Audit Follow-Up is your governed workspace for tracking findings through to closure.
+
+2
+00:00:06,114 --> 00:00:12,726
+Monitoring every commitment, testing whether the control now operates, and answering questions across the tested population.
+
+3
+00:00:12,756 --> 00:00:16,716
+Two modes, one foundation. Here they are - on a single finding.
+
+4
+00:00:16,746 --> 00:00:18,622
+Start with the work that repeats.
+
+5
+00:00:18,652 --> 00:00:23,392
+The agent runs on a schedule internal audit sets, under rules internal audit approves.
+
+6
+00:00:23,422 --> 00:00:28,918
+It ran at 03:14 this morning and built the register - 148 open commitments.
+
+7
+00:00:29,138 --> 00:00:30,582
+23 overdue.
+
+8
+00:00:30,612 --> 00:00:34,584
+14 where closure was withheld, because the evidence didn't support it.
+
+9
+00:00:34,614 --> 00:00:36,682
+Those 37 go to a human.
+
+10
+00:00:36,712 --> 00:00:39,324
+The other 111 closed on their own.
+
+11
+00:00:39,354 --> 00:00:41,406
+The agent isn't replacing judgement.
+
+12
+00:00:41,436 --> 00:00:43,168
+It's deciding what deserves it.
+
+13
+00:00:43,338 --> 00:00:46,754
+Take the top one. RM-0412.
+
+14
+00:00:46,784 --> 00:00:50,036
+Approval before works commence on all variations.
+
+15
+00:00:50,066 --> 00:00:53,334
+Management says it's implemented, and wants it closed.
+
+16
+00:00:53,554 --> 00:00:55,670
+Here's what management submitted.
+
+17
+00:00:55,700 --> 00:00:58,408
+A revised approval policy issued in June.
+
+18
+00:00:58,438 --> 00:01:02,110
+A governance briefing, 31 attendees. Both real.
+
+19
+00:01:02,140 --> 00:01:05,760
+In most processes, this is where somebody ticks the box.
+
+20
+00:01:05,980 --> 00:01:07,808
+The agent withheld closure.
+
+21
+00:01:08,578 --> 00:01:11,718
+Its instruction was not to confirm that action was taken.
+
+22
+00:01:11,748 --> 00:01:14,088
+It was to confirm that the control operates.
+
+23
+00:01:14,118 --> 00:01:16,474
+The documents prove a policy exists.
+
+24
+00:01:16,504 --> 00:01:18,892
+So the agent re-ran the original test.
+
+25
+00:01:18,922 --> 00:01:21,550
+9 variations since 30 June.
+
+26
+00:01:21,580 --> 00:01:24,192
+4 still approved after works had commenced.
+
+27
+00:01:24,712 --> 00:01:27,680
+The policy exists. The control does not.
+
+28
+00:01:28,500 --> 00:01:30,248
+That's the work that repeats.
+
+29
+00:01:30,278 --> 00:01:36,622
+Now the work nobody scheduled - the auditor, mid-fieldwork, asking something this agent was never built to answer.
+
+30
+00:01:36,742 --> 00:01:38,810
+5 comparable contracts.
+
+31
+00:01:38,840 --> 00:01:40,700
+61 new exceptions.
+
+32
+00:01:40,730 --> 00:01:43,358
+$940,000 at risk.
+
+33
+00:01:43,388 --> 00:01:45,984
+None of which anyone had gone looking for.
+
+34
+00:01:46,204 --> 00:01:47,856
+That took eight seconds.
+
+35
+00:01:47,886 --> 00:01:51,954
+In most organisations it takes three weeks - because it isn't a question.
+
+36
+00:01:51,984 --> 00:01:55,508
+It's a data request, queued behind somebody else's.
+
+37
+00:01:55,728 --> 00:01:57,540
+The evidence assembles itself.
+
+38
+00:01:57,570 --> 00:02:03,926
+Variation orders, approval minutes, commencement records, the delegation matrix in force on each date.
+
+39
+00:02:03,956 --> 00:02:05,784
+47 source documents.
+
+40
+00:02:06,104 --> 00:02:07,692
+Read the line underneath.
+
+41
+00:02:07,722 --> 00:02:10,242
+Population tested. Rule applied.
+
+42
+00:02:10,272 --> 00:02:15,048
+Read-only, zero records modified. The one foundation - both modes.
+
+43
+00:02:15,078 --> 00:02:18,378
+Without provenance, none of this is audit evidence.
+
+44
+00:02:18,648 --> 00:02:22,188
+Then the auditor acts, from inside the same conversation.
+
+45
+00:02:22,218 --> 00:02:24,526
+No second system, no re-keying.
+
+46
+00:02:24,746 --> 00:02:27,118
+Scope extended across five contracts.
+
+47
+00:02:27,148 --> 00:02:29,840
+Management notified, evidence attached.
+
+48
+00:02:29,870 --> 00:02:32,242
+61 exceptions into the audit plan.
+
+49
+00:02:32,272 --> 00:02:33,508
+And the fourth one -
+
+50
+00:02:33,628 --> 00:02:35,024
+The rule is updated.
+
+51
+00:02:35,054 --> 00:02:38,914
+Monthly now, across all 312 contracts.
+
+52
+00:02:38,944 --> 00:02:42,180
+Breaches surface before certification, not at audit.
+
+53
+00:02:42,210 --> 00:02:46,134
+The register moves from 148 to 209.
+
+54
+00:02:46,554 --> 00:02:48,898
+Two modes - but not two silos.
+
+55
+00:02:48,928 --> 00:02:50,884
+The agent handles what repeats.
+
+56
+00:02:50,914 --> 00:02:53,062
+The conversation handles what's new.
+
+57
+00:02:53,092 --> 00:02:58,088
+And what the auditor finds in conversation becomes what the agent watches from then on.
+
